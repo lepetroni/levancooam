@@ -14,6 +14,7 @@ function handleInputo(){
     senha = document.getElementById("senha").value;
     console.log("senha!", senha)
 }
+console.log("alteração")
 
 function login(){
     console.log(`nome: ${nome} senha: ${senha}`)
